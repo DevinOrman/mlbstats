@@ -1,0 +1,10 @@
+Package: mlbstats
+Title: Advanced Baseball Statistics
+Version: 0.0.0.9000
+Authors@R: person("Devin", "Orman", email = "orman@mail.usf.edu", role = c("aut", "cre"))
+Description: Provides additional statistical functions for baseball batting and pitching datasets
+Depends: R (>= 3.4.1)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
